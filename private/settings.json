@@ -1,0 +1,7 @@
+{
+    "galaxy.meteor.com": {
+      "env": {
+        "MONGO_URL": "mongodb+srv://pedropaula:WCjFl88Upy3drkiD@clusterpap.heavmuj.mongodb.net/?retryWrites=true&w=majority&appName=clusterpap"
+      }
+    }
+  }
